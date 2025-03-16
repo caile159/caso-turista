@@ -70,6 +70,6 @@ Este proyecto está bajo la licencia **MIT**.
 
 💡 *¡Gracias por visitar el repositorio! Si te gusta el proyecto, no olvides darle ⭐ en GitHub.* 
 
-![image](https://github.com/user-attachments/assets/6a751052-db2c-48ed-875a-ea3a55677044)
- 
+![image](https://github.com/user-attachments/assets/a089f873-dcb8-4dd7-948a-fe70e4da1056)
+
 
