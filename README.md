@@ -15,10 +15,12 @@ Un proyecto desarrollado en **React** para la gestión de turistas y destinos.
    ```sh
    git clone https://github.com/caile159/caso-turista.git
    cd caso-turista
-#### Instala las dependencias:
+### Instala las dependencias:
+
 1. npm install
 
-#### Inicia el servidor de desarrollo:
+### Inicia el servidor de desarrollo:
+
 1. npm start
 
 
