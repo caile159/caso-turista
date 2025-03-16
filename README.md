@@ -40,9 +40,9 @@ caso-turista/
 
 ## ✅ Tecnologías Utilizadas  
 - **React.js** ⚛️  
-- **React Router** 🛤️  
-- **Tailwind CSS / SCSS** 🎨  
-- **Axios (para peticiones HTTP)** 📡  
+- **RJavaScript** 🛤️  
+- **HTML y CSS** 🎨  
+- **JSON** 📡  
 
 ## 🤝 Contribuciones  
 Si deseas contribuir, sigue estos pasos:  
@@ -68,5 +68,8 @@ Este proyecto está bajo la licencia **MIT**.
 
 ---
 
-💡 *¡Gracias por visitar el repositorio! Si te gusta el proyecto, no olvides darle ⭐ en GitHub.*  
+💡 *¡Gracias por visitar el repositorio! Si te gusta el proyecto, no olvides darle ⭐ en GitHub.* 
+
+![image](https://github.com/user-attachments/assets/6a751052-db2c-48ed-875a-ea3a55677044)
+ 
 
