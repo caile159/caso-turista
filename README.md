@@ -72,6 +72,6 @@ Este proyecto está bajo la licencia **MIT**.
 
 ![image](https://github.com/user-attachments/assets/a089f873-dcb8-4dd7-948a-fe70e4da1056)
 
-###Links
+###LINK PARA VISUALIZAR EL PROYECTO:
 
 [Links](https://f094-38-210-1-213.ngrok-free.app)
