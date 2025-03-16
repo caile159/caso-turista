@@ -15,30 +15,30 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina:
    ```sh
    git clone https://github.com/caile159/caso-turista.git
    cd caso-turista
-Instala las dependencias:
-sh
-Copiar
-Editar
-npm install
-Inicia el servidor de desarrollo:
-sh
-Copiar
-Editar
-npm start
+2.Instala las dependencias:
+-sh.
+-Copiar.
+-Editar.
+-npm install.
+2. Inicia el servidor de desarrollo:
+-sh.
+-Copiar.
+-Editar.
+-npm start.
 📁 Estructura del Proyecto
-csharp
-Copiar
-Editar
-caso-turista/
+-csharp.
+-Copiar.
+-Editar.
+.caso-turista/
 │-- src/
-│   ├── components/  # Componentes reutilizables
-│   ├── pages/       # Páginas principales
-│   ├── assets/      # Imágenes y estilos
-│   ├── services/    # Llamadas a API
-│-- public/          # Archivos estáticos
-│-- package.json     # Dependencias y scripts
-│-- README.md        # Documentación del proyecto
-✅ Tecnologías Utilizadas
+│   ├── components/  # Componentes reutilizables.
+│   ├── pages/       # Páginas principales.
+│   ├── assets/      # Imágenes y estilos.
+│   ├── services/    # Llamadas a API.
+│-- public/          # Archivos estáticos.
+│-- package.json     # Dependencias y scripts.
+│-- README.md        # Documentación del proyecto.
+✅ Tecnologías Utilizadas.
 React.js ⚛️
 React Router 🛤️
 Tailwind CSS / SCSS 🎨
