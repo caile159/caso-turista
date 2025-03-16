@@ -9,17 +9,17 @@ Un proyecto desarrollado en **React** para la gestión de turistas y destinos.
 - Integración con API externas.  
 
 ## 🚀 Instalación  
-Sigue estos pasos para ejecutar el proyecto en tu máquina:  
+#### Sigue estos pasos para ejecutar el proyecto en tu máquina:  
 
 1. Clona el repositorio:  
    ```sh
    git clone https://github.com/caile159/caso-turista.git
    cd caso-turista
-2.Instala las dependencias:
-npm install
+#### Instala las dependencias:
+1. npm install
 
-3.Inicia el servidor de desarrollo:
-npm start
+#### Inicia el servidor de desarrollo:
+1. npm start
 
 
 
