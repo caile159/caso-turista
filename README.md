@@ -6,40 +6,8 @@ Un proyecto desarrollado en **React** para la gestión de turistas y destinos.
 - Brinda 2 rutas pra tu ubicacion.  
 - Listado de destinos.  
 - Interfaz intuitiva y amigable.  
-- Integración con API externas.  
-
-## 🚀 Instalación  
-#### Sigue estos pasos para ejecutar el proyecto en tu máquina:  
-
-1. Clona el repositorio:  
-   ```sh
-   git clone https://github.com/caile159/caso-turista.git
-   cd caso-turista
-### Instala las dependencias:
-
-1. npm install
-
-### Inicia el servidor de desarrollo:
-
-1. npm start
-
-## 📁 Estructura del Proyecto
-
-
-
-
-
-
-# Caso Turista 🧳🌍  
-
-Un proyecto desarrollado en **React** para la gestión de turistas y destinos.  
-
-## 📌 Características  
-- Registro y administración de turistas.  
-- Listado de destinos turísticos.  
-- Interfaz intuitiva y amigable.  
-- Integración con API externas (si aplica).  
-
+- Integración con API externas.
+  
 ## 🚀 Instalación  
 Sigue estos pasos para ejecutar el proyecto en tu máquina:  
 
@@ -57,7 +25,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina:
    npm start
    ```  
 
-## 💁️️ Estructura del Proyecto  
+## 📁 Estructura del Proyecto
 ```csharp
 caso-turista/
 │-- src/
